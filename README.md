@@ -5,6 +5,6 @@
 * Coming soon
 
 ### Screen-shots 
-![DDT Source code](https://github.com/alannguyen2003/math-util-mvn/blob/main/screenshots/DDT%20Test.png"D:\Semester 5\SWT301\math-util-mvn\screenshots\DDT Test.png")
+![DDT Source code]("https://github.com/alannguyen2003/math-util-mvn/blob/main/screenshots/DDT%20Test.png")
 
 #### Copyright &#169;2023 alannguyen2003
